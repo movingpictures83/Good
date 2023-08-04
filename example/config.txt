@@ -1,0 +1,2 @@
+Prefix plugins/Good/example/
+Plugin Good inputfile table.qza outputfile alpha_diversity.qza
